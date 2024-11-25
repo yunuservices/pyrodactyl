@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h1 align="center">Pyrodactyl</h1>
+<h1 align="center">Pyrodactyl Test</h1>
 
 > [!WARNING]
 > Pyrodactyl is under development and pre-release. Some UI elements may appear broken, and there might be some bugs.
